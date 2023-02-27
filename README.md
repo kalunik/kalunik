@@ -20,6 +20,8 @@ In the projects he interacts with:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalunik&exclude_repo=so_long)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=kalunik&theme=vue&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D)
 
 ![kalunik's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kalunik)
