@@ -1,12 +1,12 @@
 ### What do we know about Nikita 🧬
 
-<div>
-  <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalunik&exclude_repo=so_long&layout=compact">
-  
+<div> 
   <p>He was studying <i>applied math and informatics</i> at the Russian University of Transport for 3 years,
   but, unfortunately, they broke up.
   
   In a year or so, he found [42 Ecole](https://42.fr) campus in Moscow and that was a match 🎰.
+    
+  Here's [leetcode](https://leetcode.com/kalunik).
   
   In the projects he interacts with: 
   </p>
@@ -27,7 +27,7 @@
   
   <p></p>
 <div>
-<!--   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalunik&exclude_repo=so_long&layout=compact"> -->
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalunik&exclude_repo=so_long&layout=compact">
   <div>
     <img alt="GitHub Streak" src="https://streak-stats.demolab.com?           user=kalunik&theme=vue&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D">
     <img alt="kalunik's LeetCode stats" src="https://leetcode-stats-six.vercel.app/?username=kalunik">
